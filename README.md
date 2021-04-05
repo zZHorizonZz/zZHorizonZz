@@ -7,5 +7,6 @@
 
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=zMamutCZz&show_icons=true&theme=gruvbox"></img>
-  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40379%20lines%20of%20code-blue)
 </div>
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40379%20lines%20of%20code-blue)

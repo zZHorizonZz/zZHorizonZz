@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **C**
 
-<h3 align="left">Connect with me: danfiala23@gmail.com</h3>
 <p align="left">
 </p>
 

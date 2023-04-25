@@ -1,8 +1,7 @@
-Hi 👋, I'm Daniel
-I have experience with a variety of programming languages and tools. I am passionate about creating efficient and scalable systems, and I am always eager to learn new technologies and techniques.
+Hello, I'm Daniel 👋,
+I have experience in various programming languages and tools. I'm passionate about building effective and scalable systems, and I love learning new technologies.
 
-I'm currently working on Project Cardinal, a project that I am excited about.
-I am also currently learning Kubernetes and Microservices.
+Currently, I'm working on Project Cardinal, a project I'm excited about. I'm also learning Kubernetes and Microservices.
 
 Languages and Tools
 I am proficient in the following languages and tools:

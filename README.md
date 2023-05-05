@@ -25,6 +25,12 @@ I am proficient in the following languages and tools:
 
 Discord: [⎛⎝Horizon⎠⎞#7944](discordapp.com/users/409018902119448577)
 
-![Metrics](https://github.com/zZHorizonZz/zZHorizonZz/blob/main/github-metrics.svg)
+<p align="center">
+  <!-- Metrics -->
+  <img src="https://github.com/zZHorizonZz/zZHorizonZz/blob/main/github-metrics.svg">
+</p>
 
-![Counter](https://count.getloli.com/get/@zZHorizonZz?theme=moebooru)
+<p align="center">
+  <!-- Counter -->
+  <img src="https://count.getloli.com/get/@zZHorizonZz?theme=moebooru">
+</p>

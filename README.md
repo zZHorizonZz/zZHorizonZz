@@ -3,7 +3,6 @@ I have experience in various programming languages and tools. I'm passionate abo
 
 Currently, I'm working on Project Cardinal, a project I'm excited about. I'm also learning Kubernetes and Microservices.
 
-Languages and Tools
 I am proficient in the following languages and tools:
 
 - Blender
@@ -20,6 +19,8 @@ I am proficient in the following languages and tools:
 - Spring
 - SQL
 - Kubernetes
+- Quarkus
+- Google Cloud
 
 > Feel free to take a look at my projects, and if you have any questions or just want to say hi, don't hesitate to reach out to me!
 

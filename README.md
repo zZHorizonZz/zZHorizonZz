@@ -1,9 +1,9 @@
 Hello, I'm Daniel 👋,
 I have experience in various programming languages and tools. I'm passionate about building effective and scalable systems, and I love learning new technologies.
 
-Currently, I'm working on Project Cardinal, a project I'm excited about. I'm also learning Kubernetes and Microservices.
+Currently, I'm working on Project Heligion, a project I'm excited about. I'm also learning Kubernetes and Microservices.
 
-I am proficient in the following languages and tools:
+I have a knowledge of the following languages and tools:
 
 - Blender
 - C

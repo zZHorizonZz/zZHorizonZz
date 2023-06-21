@@ -1,27 +1,3 @@
-Hello, I'm Daniel 👋,
-I have experience in various programming languages and tools. I'm passionate about building effective and scalable systems, and I love learning new technologies.
-
-Currently, I'm working on Project Heligion, a project I'm excited about. I'm also learning Kubernetes and Microservices.
-
-I have a knowledge of the following languages and tools:
-
-- Blender
-- C
-- C#
-- Git
-- Java
-- Linux
-- MongoDB
-- MySQL
-- Postman
-- RabbitMQ
-- Redis
-- Spring
-- SQL
-- Kubernetes
-- Quarkus
-- Google Cloud
-
 > Feel free to take a look at my projects, and if you have any questions or just want to say hi, don't hesitate to reach out to me!
 
 Discord: [⎛⎝Horizon⎠⎞#7944](discordapp.com/users/409018902119448577)

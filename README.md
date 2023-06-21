@@ -1,7 +1,8 @@
 <p align="center">
   Feel free to take a look at my projects, and if you have any questions or just want to say hi, don't hesitate to reach out to me!
-  Discord: [⎛⎝Horizon⎠⎞#7944](discordapp.com/users/409018902119448577)
 </p>
+
+Discord: [⎛⎝Horizon⎠⎞#7944](discordapp.com/users/409018902119448577)
 
 <p align="center">
   <!-- Metrics -->
